@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+.text-main{
+    color: #B5FF59;
+}
+
+
+.bg-main{
+    background-color: #B5FF59;
+}
+
+.bg-gray-43{
+    background-color: #434343;
+}
+
+.bg-gray-12{
+    background-color: #121212;
+}
